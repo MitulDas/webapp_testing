@@ -14,7 +14,7 @@ Web-based unit converter which converts the most common units of measurement.
 
 ![alt text](Resources/Screenshots/home_page.png "Home Page")
 
-## Technologies Used 💻
+## Technologie's Used 💻
 
 + **JavaScript** - For dynamic interactions and calculations.
 + **HTML** - Structure of the web pages.
