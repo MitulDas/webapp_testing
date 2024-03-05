@@ -1,6 +1,6 @@
 # Unit Converter: 🔄
 
-Web-based unit converter which converts the most common units of measurement. 
+Web-based unit converter, which converts the most common units of measurement. 
 
 🔹 **Types of Conversion Included**:
 - `Area` 📏
@@ -31,8 +31,8 @@ To run the project, a small number of prerequisites and additional steps need to
 
 ### Running 🏃
 
-+ Clone the project from GitHub repository.
-+ Open `index.html` file in your browser to start using the converter.
++ Clone the project from the GitHub repository.
++ Open the `index.html` file in your browser to start using the converter.
 
 ---
 
